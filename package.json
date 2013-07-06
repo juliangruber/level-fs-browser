@@ -1,0 +1,36 @@
+{
+  "name": "level-fs-browser",
+  "description": "level-fs as drop-in fs replacement for the browser",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/juliangruber/level-fs-browser.git"
+  },
+  "homepage": "https://github.com/juliangruber/level-fs-browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "dependencies": {
+    "level-fs": "~0.2.0",
+    "level-js": "~1.0.7",
+    "levelup": "~0.10.0"
+  },
+  "devDependencies": {
+    "tap": "*",
+    "browserify": "~2.23.1"
+  },
+  "keywords": [
+    "level-fs",
+    "browser",
+    "leveldb",
+    "levelup",
+    "fs"
+  ],
+  "author": {
+    "name": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com"
+  },
+  "license": "MIT"
+}
