@@ -1,7 +1,7 @@
 {
   "name": "level-fs-browser",
   "description": "level-fs as drop-in fs replacement for the browser",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/juliangruber/level-fs-browser.git"
