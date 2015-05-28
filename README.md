@@ -33,7 +33,7 @@ b.bundle().pipe(process.stdout);
 or browserify's cli:
 
 ```bash
-$ browserify -r fs:level-fs-browser test.js
+$ browserify -r level-fs-browser:fs test.js
 ```
 
 **level-fs-browser** will (create and) use a database called `level-fs`.
