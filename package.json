@@ -12,13 +12,13 @@
     "test": "tap test/*.js"
   },
   "dependencies": {
-    "level-fs": "~0.10.0",
-    "level-js": "~1.0.7",
-    "levelup": "~0.10.0"
+    "level-fs": "~0.11.2",
+    "level-js": "~2.2.4",
+    "levelup": "~1.3.3"
   },
   "devDependencies": {
     "tap": "*",
-    "browserify": "~2.23.1"
+    "browserify": "~13.1.1"
   },
   "keywords": [
     "level-fs",
