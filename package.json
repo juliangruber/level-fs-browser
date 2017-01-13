@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "tap": "*",
-    "browserify": "~13.1.1"
+    "browserify": "~13.3.0"
   },
   "keywords": [
     "level-fs",
